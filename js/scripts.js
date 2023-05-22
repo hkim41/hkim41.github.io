@@ -1,3 +1,4 @@
+
      var nav = document.getElementById('nav');
 
        window.onscroll = function () {
@@ -8,8 +9,8 @@
           nav.style.top = 0;
 
           }else{
+
             nav.style.position = 'relative';
             nav.style.top = 100;
           }
        }
-
