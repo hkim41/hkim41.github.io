@@ -19,7 +19,9 @@
       font-family: sans-serif;
       text-align: center;
          }
-
+  .box .h4{
+    color: gray;
+  }
    .head .nav{
       background: purple;
       padding: 10px 0px;
